@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning at University of Laval
-- 🔭 I’m doing anything from web, video games, IoT, or anything that sounds to me
+- 🔭 I’m doing anything from web, video games, IoT, or anything that sounds fun to me
 
 - 😔 Keeping some project private for University
 
