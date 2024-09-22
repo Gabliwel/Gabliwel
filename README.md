@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning at University of Laval
 - 🔭 I’m doing anything from web, video games, IoT, or anything that sounds to me
-- 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabliwel&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
